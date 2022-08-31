@@ -1,5 +1,6 @@
 ## My customised deep learning project template
-Contributer: Gengyuan Zhang
+Contributer: Gengyuan Zhang 
+
 Contact: gengyuanmax@gmail.com
 
 
@@ -11,6 +12,8 @@ It includes:
 - [x] training/testing/resuming a new task 
 
 - [x] saving all checkpoints and artifacts to a local directory including git commit version, config file copy, metrics etc.
+
+- [x] generate a new experiment folder once submitting a new script
 
 
 
