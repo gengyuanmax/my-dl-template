@@ -15,6 +15,8 @@ It includes:
 
 - [x] generate a new experiment folder once submitting a new script
 
+- [x] using Distributed Data Parallel to realisze one-node multi-gpu training
+
 
 
 ### How to Use
