@@ -8,8 +8,9 @@ I create a deep learning project template to help me to start a new project with
 
 It includes:
 
-[x] training/testing/resuming a new task 
-[x] saving all checkpoints and artifacts to a local directory including git commit version, config file copy, metrics etc.
+- [x] training/testing/resuming a new task 
+
+- [x] saving all checkpoints and artifacts to a local directory including git commit version, config file copy, metrics etc.
 
 
 
